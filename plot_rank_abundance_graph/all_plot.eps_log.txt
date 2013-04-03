@@ -1,2 +1,0 @@
-OTU table file: otu_table.biom
-sample names: *
